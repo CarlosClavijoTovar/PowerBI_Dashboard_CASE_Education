@@ -57,8 +57,8 @@ Este repositorio/documento contiene la documentación técnica del tablero de co
     - **Actualización:** Programada vía Gateway de SharePoint.
 
 ## Vista General del Tablero
-![Vista Principal](images/Pagina1.jpg)
-![Vista Principal](images/Pagina2.jpg)
+![Vista Principal](Images/Pagina1.jpg)
+![Vista Principal](Images/Pagina2.jpg)
 
 ---
 **Desarrollado por:** Carlos Eduardo Clavijo Tovar
