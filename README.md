@@ -56,6 +56,10 @@ Este repositorio/documento contiene la documentación técnica del tablero de co
     - **Configuración Regional:** Ajustado a Español (Colombia) para garantizar la correcta lectura de separadores decimales (comas) en la nube.
     - **Actualización:** Programada vía Gateway de SharePoint.
 
+## Vista General del Tablero
+![Vista Principal](images/Pagina1.jpg)
+![Vista Principal](images/Pagina2.jpg)
+
 ---
 **Desarrollado por:** Carlos Eduardo Clavijo Tovar
 **Fecha de Entrega:** Mayo 2026
